@@ -1,0 +1,139 @@
+InsertionSort ==> Time = 30322.259ms
+is sorted = 1
+QuickSort ==> Time = 1772.125ms
+is sorted = 1
+Ternary Search Iteration 1 :
+	K = 349525 ==> Time = 6420.484ms
+	K = 699050 ==> Time = 13286.485ms
+
+Ternary Search Iteration 2 :
+	K = 233016 ==> Time = 4963.244ms
+	K = 466033 ==> Time = 6370.750ms
+
+Ternary Search Iteration 3 :
+	K = 155344 ==> Time = 3390.916ms
+	K = 310688 ==> Time = 6489.207ms
+
+Ternary Search Iteration 4 :
+	K = 103562 ==> Time = 2660.793ms
+	K = 207125 ==> Time = 4477.449ms
+
+Ternary Search Iteration 5 :
+	K = 69041 ==> Time = 2040.670ms
+	K = 138083 ==> Time = 3143.867ms
+
+Ternary Search Iteration 6 :
+	K = 46027 ==> Time = 1583.243ms
+	K = 92055 ==> Time = 2367.341ms
+
+Ternary Search Iteration 7 :
+	K = 30685 ==> Time = 1432.707ms
+	K = 61370 ==> Time = 1969.584ms
+
+Ternary Search Iteration 8 :
+	K = 20456 ==> Time = 1283.919ms
+	K = 40913 ==> Time = 1565.831ms
+
+Ternary Search Iteration 9 :
+	K = 13637 ==> Time = 1342.043ms
+	K = 27275 ==> Time = 1607.718ms
+
+Ternary Search Iteration 10 :
+	K = 9091 ==> Time = 1379.434ms
+	K = 18183 ==> Time = 1403.073ms
+
+Ternary Search Iteration 11 :
+	K = 6061 ==> Time = 1321.058ms
+	K = 12122 ==> Time = 1248.213ms
+
+Ternary Search Iteration 12 :
+	K = 10101 ==> Time = 1231.942ms
+	K = 14142 ==> Time = 1276.595ms
+
+Ternary Search Iteration 13 :
+	K = 8754 ==> Time = 1217.153ms
+	K = 11448 ==> Time = 1253.074ms
+
+Ternary Search Iteration 14 :
+	K = 7856 ==> Time = 1227.867ms
+	K = 9652 ==> Time = 1224.157ms
+
+Ternary Search Iteration 15 :
+	K = 9053 ==> Time = 1260.159ms
+	K = 10250 ==> Time = 1198.701ms
+
+Ternary Search Iteration 16 :
+	K = 9851 ==> Time = 1176.855ms
+	K = 10649 ==> Time = 1182.622ms
+
+Ternary Search Iteration 17 :
+	K = 9585 ==> Time = 1171.645ms
+	K = 10117 ==> Time = 1231.567ms
+
+Ternary Search Iteration 18 :
+	K = 9407 ==> Time = 1207.267ms
+	K = 9762 ==> Time = 1211.056ms
+
+Ternary Search Iteration 19 :
+	K = 9289 ==> Time = 1227.232ms
+	K = 9525 ==> Time = 1223.598ms
+
+Ternary Search Iteration 20 :
+	K = 9446 ==> Time = 1220.847ms
+	K = 9604 ==> Time = 1183.975ms
+
+Ternary Search Iteration 21 :
+	K = 9551 ==> Time = 1187.163ms
+	K = 9656 ==> Time = 1225.269ms
+
+Ternary Search Iteration 22 :
+	K = 9516 ==> Time = 1208.592ms
+	K = 9586 ==> Time = 1181.657ms
+
+Ternary Search Iteration 23 :
+	K = 9562 ==> Time = 1202.924ms
+	K = 9609 ==> Time = 1189.539ms
+
+Ternary Search Iteration 24 :
+	K = 9593 ==> Time = 1314.514ms
+	K = 9624 ==> Time = 1287.278ms
+
+Ternary Search Iteration 25 :
+	K = 9614 ==> Time = 1196.149ms
+	K = 9635 ==> Time = 1201.642ms
+
+Ternary Search Iteration 26 :
+	K = 9607 ==> Time = 1190.406ms
+	K = 9621 ==> Time = 1209.500ms
+
+Ternary Search Iteration 27 :
+	K = 9602 ==> Time = 1201.694ms
+	K = 9611 ==> Time = 1208.409ms
+
+Ternary Search Iteration 28 :
+	K = 9599 ==> Time = 1220.081ms
+	K = 9605 ==> Time = 1263.727ms
+
+Ternary Search Iteration 29 :
+	K = 9597 ==> Time = 1216.911ms
+	K = 9601 ==> Time = 1301.956ms
+
+Ternary Search Iteration 30 :
+	K = 9595 ==> Time = 1197.363ms
+	K = 9598 ==> Time = 1334.498ms
+
+Ternary Search Iteration 31 :
+	K = 9594 ==> Time = 1323.893ms
+	K = 9596 ==> Time = 1415.556ms
+
+Ternary Search Iteration 32 :
+	K = 9594 ==> Time = 1272.873ms
+	K = 9595 ==> Time = 1267.854ms
+
+Ternary Search Final Examination :
+	K = 9594 ==> Time = 1357.414ms
+Ternary Search Final Examination :
+	K = 9595 ==> Time = 1228.452ms
+Ternary Search Final Examination :
+	K = 9596 ==> Time = 1231.534ms
+K = 9595
