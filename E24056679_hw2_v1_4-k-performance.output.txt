@@ -1,7 +1,6 @@
 InsertionSort ==> Time = 30322.259ms
-is sorted = 1
 QuickSort ==> Time = 1772.125ms
-is sorted = 1
+
 Ternary Search Iteration 1 :
 	K = 349525 ==> Time = 6420.484ms
 	K = 699050 ==> Time = 13286.485ms
